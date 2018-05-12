@@ -1,0 +1,26 @@
+_repo: Selections-from-early-Middle-English-1130-1250Part-I--Texts_26413
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hall, Joseph
+    birthdate: 1854
+    gutenberg_agent_id: '31986'
+    url: http://www.gutenberg.org/2009/agents/31986
+description: ''
+gutenberg_issued: '2008-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26413'
+  lccn: '21000660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature -- Middle English, 1100-1500'
+- !lcc 'PR'
+title: 'Selections from Early Middle English, 1130-1250. Part 1: Texts'
+url: http://www.gutenberg.org/ebooks/26413
