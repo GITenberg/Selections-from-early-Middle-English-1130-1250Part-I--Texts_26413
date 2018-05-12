@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '31986'
     url: http://www.gutenberg.org/2009/agents/31986
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26413#Selections-from-early-Middle-English-1130-1250Part-I--Texts
 gutenberg_issued: '2008-08-24'
 gutenberg_type: Text
 identifiers:
